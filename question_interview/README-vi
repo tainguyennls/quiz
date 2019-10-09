@@ -14,7 +14,8 @@
 
     - `main`: tên của phương thức.
 
-    - `String args[]`: `args` là một mảng `String` chứa các `đối số dòng lệnh` (command line argument) mà chúng ta có thể vượt qua khi chạy chương trình.
+    - `String args[]`: `args` là một mảng `String` chứa các `đối số dòng lệnh` (command line argument) mà 
+    chúng ta có thể vượt qua khi chạy chương trình.
   </p>
 </details>
 
@@ -35,8 +36,8 @@
 
 <details><summary><b>Đáp án:</b></summary>
   <p>
-    `Class` là một nhóm các đối tượng có thuộc tính chung. `Class` là một `prototype` (bản thiết kế) hoặc một template mà chúng ta
-    có thể tạo đối tượng của lớp đó.
+    `Class` là một nhóm các đối tượng có thuộc tính chung. `Class` là một `prototype` (bản thiết kế) 
+    hoặc một template mà chúng ta có thể tạo đối tượng của lớp đó.
   </p>
 </details>
 
