@@ -4,18 +4,14 @@
 ```
 
 <details><summary><b>Đáp án:</b></summary>
-  <p>Đây là đoạn code để thực thi (chạy) một chương trình, trong đó:
+<p>Đây là đoạn code để thực thi (chạy) một chương trình, trong đó:
 
-    - `public`: thiết lập `phạm vi truy cập`, nghĩa là phương thức có thể truy xuất bởi một lớp khác.
-
-    - `static`: phương thức này có thể truy cập mà không cần tạo `instance` (thể hiện) của lớp.
-
-    - `void`: không có giá trị trả về.
-
-    - `main`: tên của phương thức.
-
-    - `String args[]`: `args` là một mảng `String` chứa các `đối số dòng lệnh` (command line argument) mà 
-    chúng ta có thể vượt qua khi chạy chương trình.
+- `public`: thiết lập `phạm vi truy cập`, nghĩa là phương thức có thể truy xuất bởi một lớp khác.
+- `static`: phương thức này có thể truy cập mà không cần tạo `instance` (thể hiện) của lớp.
+- `void`: không có giá trị trả về.
+- `main`: tên của phương thức.
+- `String args[]`: `args` là một mảng `String` chứa các `đối số dòng lệnh` (command line argument) mà 
+chúng ta có thể vượt qua khi chạy chương trình.
   </p>
 </details>
 
@@ -24,10 +20,10 @@
 ###### 2. Javac là gì?
 
 <details><summary><b>Đáp án:</b></summary>
-  <p>
-    `Javac` là một `trình biên dịch` để biên dịch mã nguồn chương trình của bạn và tạo `mã byte`, tức là 
-    `javac` tạo `mã byte` java từ mã nguồn được ghi trong `*.java.JVM` sau đó thực thi mã byte để chạy chương trình.
-  </p>
+<p>
+`Javac` là một `trình biên dịch` để biên dịch mã nguồn chương trình của bạn và tạo `mã byte`, tức là 
+`javac` tạo `mã byte` java từ mã nguồn được ghi trong `*.java.JVM` sau đó thực thi mã byte để chạy chương trình.
+</p>
 </details>
 
 ---
