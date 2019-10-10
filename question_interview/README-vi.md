@@ -21,8 +21,10 @@ chúng ta có thể vượt qua khi chạy chương trình.
 
 <details><summary><b>Đáp án:</b></summary>
 <p>
+
 `Javac` là một `trình biên dịch` để biên dịch mã nguồn chương trình của bạn và tạo `mã byte`, tức là 
 `javac` tạo `mã byte` java từ mã nguồn được ghi trong `*.java.JVM` sau đó thực thi mã byte để chạy chương trình.
+
 </p>
 </details>
 
@@ -32,8 +34,10 @@ chúng ta có thể vượt qua khi chạy chương trình.
 
 <details><summary><b>Đáp án:</b></summary>
   <p>
-    `Class` là một nhóm các đối tượng có thuộc tính chung. `Class` là một `prototype` (bản thiết kế) 
-    hoặc một template mà chúng ta có thể tạo đối tượng của lớp đó.
+
+  `Class` là một nhóm các đối tượng có thuộc tính chung. 
+  `Class` là một `prototype` (bản thiết kế) hoặc một template mà chúng ta có thể tạo đối tượng của lớp đó.
+
   </p>
 </details>
 
@@ -43,7 +47,9 @@ chúng ta có thể vượt qua khi chạy chương trình.
 
 <details><summary><b>Đáp án:</b></summary>
   <p>
-    `java.lang.Object` là lớp cơ sở (hay còn gọi là super class) của tất cả các lớp trong java.
+
+  `java.lang.Object` là lớp cơ sở (hay còn gọi là super class) của tất cả các lớp trong java.
+  
   </p>
 </details>
 --- 
