@@ -1,4 +1,4 @@
-1. **Choose the best option based on the following program:**
+**1. Choose the best option based on the following program:**
 
 
 ```java
@@ -31,3 +31,18 @@ class Color {
 - B. Compiles fine, and when run, it prints the following: The color is: red = 10 green = 10 blue = 10
 - C. Compiles fine, and when run, it prints the following: The color is: red = 0 green = 0 blue = 0
 - D. Compiles fine, and when run, it throws `ClassCastException`
+
+
+**2. Choose the correct option based on this code segment:**
+```java
+class Rectangle { }
+class ColoredRectangle extends Rectangle { }
+class RoundedRectangle extends Rectangle { }
+class ColoredRoundedRectangle extends ColoredRectangle , RoundedRectangle { }
+```
+
+Choose an appropriate option:
+- A. Compiler error: '{' expected cannot extend two classes
+- B. Compiles fine, and when run, crashes with the exception `MultipleClassInheritanceException`
+- C. Compiler error: class definition cannot be empty
+- D. Compiles fine, and when run, crashes with the exception `EmptyClassDefinitionError`
