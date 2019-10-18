@@ -1,6 +1,8 @@
 ###### 1. Giải thích các thành phần trong đoạn code sau đây: 
 ```javascript
-  public static void main(String args[]) {...}
+  public static void main(String args[]) {
+        System.err.println("Hello World");
+  }
 ```
 
 <details><summary><b>Đáp án:</b></summary>
